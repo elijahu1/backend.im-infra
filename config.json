@@ -1,8 +1,8 @@
 {
   "ws_url": "ws://3.248.196.65/ws",
   "repo_url": "http://3.248.196.65/backend.im/backend.im-fastapi-app.git",
-  "user_id": "user-14",
-  "chat_id": "chat-14",
+  "user_id": "elim-14",
+  "chat_id": "elim-14",
   "test_command": "pytest tests/",
   "project_type": "fastapi",
   "commits": [
